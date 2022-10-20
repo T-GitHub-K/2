@@ -1,1 +1,6 @@
 test
+git clone https://github.com/T-GitHub-K/2
+で新たに作成
+
+gitHubでリポジトリを作成して、test.txtを試しに作成その後、git cloneコマンドでローカルに作成
+
